@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:orientation="vertical"
+    android:padding="10dp"
+    >
+
+    <TextView
+        android:layout_marginStart="20dp"
+        android:id="@+id/namaMk"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Nama Matakuliah"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_marginStart="20dp"
+        android:id="@+id/jamMk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jam Matakuliah"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_marginStart="20dp"
+        android:id="@+id/hariMk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hari Matakuliah"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/ruanganMk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="Ruangan Mata Kuliah"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</LinearLayout>

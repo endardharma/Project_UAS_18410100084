@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Daftar Mata Kuliah"
+        android:id="@+id/menu_matkul"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/menu_jadwal"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_schedule_24"
+        android:title="Jadwal" />
+    <item
+        android:id="@+id/about"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="About Me" />
+
+</menu>

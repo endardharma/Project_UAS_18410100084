@@ -1,0 +1,25 @@
+<resources>
+
+    <string-array name="pilih_hari">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+    </string-array>
+
+    <string-array name="pilih_kelas">
+        <item>Lab Bernolli</item>
+        <item>M403</item>
+        <item>M501</item>
+        <item>M306</item>
+        <item>M701</item>
+        <item>M703</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="UAS_PBM2022"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="Project_UAS">Project_UAS</string>
+</resources>
+

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461412997156",
+    "project_id": "uas-pbm2022",
+    "storage_bucket": "uas-pbm2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461412997156:android:6e2a500a5cbbd7247be0b1",
+        "android_client_info": {
+          "package_name": "id.undika.project_uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461412997156-isno3si81jvuu702j07g3idg5ms332q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN1TbhmwjRwGc6lK-vhK4GX8Gb98RRpsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461412997156-isno3si81jvuu702j07g3idg5ms332q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
